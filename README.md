@@ -11,4 +11,4 @@ AI, machine learning, and data science as a Break Through Tech AI Fellow at Corn
 * Linkedin: https://www.linkedin.com/in/susan-qu-13958a249/
 
 ## Fun Fact:
-I have a plush collection of monkeys! 
+I love to collect stickers and monkey plushies!
