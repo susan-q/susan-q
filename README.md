@@ -1,4 +1,6 @@
 ## Hi there! 👋
+![1734839571161](https://github.com/user-attachments/assets/ec343dcd-b5b6-4faf-82bb-3ab3e9cf3691)
+
 My name is Susan, a current junior at Stony Brook University studying Computer Science. As a student on the CS Honors track program, my courses have provided me with a solid foundation in software engineering, object-oriented programming, and algorithms as well as skills in Java, C, HTML/CSS, JavaScript, and React. My undergraduate experience has been nothing but a journey of rewarding challenges (and coffee). 
 
 My areas of interest include software engineering, AI, and machine learning, and I'm actively seeking a real-world tech internship to apply and grow my skills.
